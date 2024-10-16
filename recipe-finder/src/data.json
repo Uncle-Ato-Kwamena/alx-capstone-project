@@ -1,0 +1,35 @@
+
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+    "image": "https://via.placeholder.com/150",
+    "ingredients": ["200g spaghetti", "100g pancetta", "2 large eggs", "50g pecorino cheese", "50g parmesan cheese", "Freshly ground black pepper", "Salt"],
+    "instructions": ["Cook spaghetti.", "Fry pancetta.", "Mix eggs and cheese.", "Combine everything and season with pepper."]
+  },
+  {
+    "id": 2,
+    "title": "Chicken Tikka Masala",
+    "summary": "Chunks of grilled chicken cooked in a smooth buttery & creamy tomato-based gravy.",
+    "image": "https://via.placeholder.com/150",
+    "ingredients": ["500g chicken breast", "2 tbsp tikka masala paste", "1 onion", "2 garlic cloves", "400g canned tomatoes", "200ml cream"],
+    "instructions": ["Marinate chicken in tikka masala paste.", "Grill chicken.", "Cook onions and garlic.", "Add tomatoes and cream.", "Combine everything."]
+  },
+  {
+    "id": 3,
+    "title": "Ghanaian Jollof",
+    "summary": "A spicy and flavorful rice dish popular in West Africa.",
+    "image": "https://via.placeholder.com/150",
+    "ingredients": ["2 cups long grain rice", "1/2 cup vegetable oil", "4 tomatoes", "2 onions", "2 bell peppers", "2 tsp thyme", "1 tsp curry powder"],
+    "instructions": ["Blend tomatoes and peppers.", "Fry onions.", "Add blended mixture and cook.", "Add rice and seasoning.", "Simmer until rice is cooked."]
+  },
+  {
+    "id": 4,
+    "title": "Chicken Salad",
+    "summary": "A healthy salad with grilled chicken, fresh greens, and a light dressing.",
+    "image": "https://via.placeholder.com/150",
+    "ingredients": ["2 grilled chicken breasts", "Mixed greens", "1 cucumber", "1/2 red onion", "Cherry tomatoes", "Olive oil", "Lemon juice"],
+    "instructions": ["Slice chicken.", "Chop vegetables.", "Mix everything together.", "Drizzle with olive oil and lemon juice."]
+  }
+]
