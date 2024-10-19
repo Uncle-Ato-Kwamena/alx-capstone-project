@@ -33,12 +33,9 @@ Responsive Design: The application is designed to be accessible on both desktop 
 
 Optional Deployment: For an extra challenge, the project can be deployed to a web server or hosting platform to make it accessible online, allowing users to access the Recipe Finder from anywhere.
 
-<<<<<<< HEAD
 Technologies Used:
 Frontend: HTML, CSS, and JavaScript for creating the user interface. React will be utilized for building interactive components and managing state effectively.
-=======
 Technologies Used: Frontend: HTML, CSS, and JavaScript for creating the user interface. React will be utilized for building interactive components and managing state effectively.
->>>>>>> 87a6235 (modified readme)
 
 Styling: Tailwind CSS for rapid UI development and responsive design.
 
@@ -48,7 +45,6 @@ State Management: React's hooks (useState, useEffect) to handle data fetching an
 
 Optional Tools: Advanced state management libraries like Zustand or Redux can be explored for scalability.
 
-<<<<<<< HEAD
 Roadmap and Future Enhancements:
 Continuously improve the user interface and experience based on user feedback, incorporating features like dark mode and personalized recommendations.
 
@@ -57,10 +53,3 @@ Encourage collaboration with other developers to enhance functionality and expan
 Contact Information:
 Samuel Ato Mensah 
 samuelmensah99@outlook.com
-=======
-Roadmap and Future Enhancements: Continuously improve the user interface and experience based on user feedback, incorporating features like dark mode and personalized recommendations.
-
-Encourage collaboration with other developers to enhance functionality and expand the recipe database.
-
-Contact Information: Samuel Ato Mensah samuelmensah99@outlook.com
->>>>>>> 87a6235 (modified readme)
