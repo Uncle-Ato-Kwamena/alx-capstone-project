@@ -45,9 +45,9 @@ const HomePage = () => {
   console.log('Filtered recipes:', filteredRecipes); 
 
   return (
-    <div className="container mx-auto p-4" style={{ backgroundColor: '#fffae6' }}> {/* Bright background color */}
-    <h1 className="text-4xl font-bold text-center my-8 text-orange-600">Infinite Recipe Finder</h1> {/* Header styling */}
-    <img src= "src/assets/image.jpg" alt="Header Separator" className="my-4" /> {/* Add an image for separation */}
+    <div className="container mx-auto p-4" style={{ backgroundColor: '#fffae6' }}> 
+    <h1 className="text-4xl font-bold text-center my-8 text-orange-600">Infinite Recipe Finder</h1> 
+    <img src= "src/assets/image.jpg" alt="Header Separator" className="my-4" /> 
     <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
 
       {/* Temporarily commented to test recipe display */}
